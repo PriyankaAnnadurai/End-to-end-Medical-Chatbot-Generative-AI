@@ -8,4 +8,8 @@ langchain-pinecone
 langchain_community
 langchain_openai
 langchain_experimental
+<<<<<<< HEAD
 -e .
+=======
+-e .
+>>>>>>> 4d484a970367c05bf58187056915bb7b9de1dd06
